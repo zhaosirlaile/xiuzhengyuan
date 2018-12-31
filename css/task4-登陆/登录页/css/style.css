@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+header{
+	display: flex;
+	justify-content: space-between;
+	background-color: #68cdd5;
+	height: 55px;
+	line-height: 55px;
+	color: white;
+	padding: 0 10px;
+}
+.main{
+	/* border: 1px solid red; */
+}
+.main>table{
+	/* border: 1px solid red; */
+	width: 100%;
+}
+img{
+	width: 50px;
+}
+span{
+	/* border: 1px solid red; */
+}
+.line{
+	width: 3px;
+	height: 40px;
+	vertical-align: middle;
+	background: black;
+	margin: 0 30px;
+}
